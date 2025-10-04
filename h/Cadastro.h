@@ -1,43 +1,29 @@
 //---------------------------------------------------------------------------
 
-#ifndef LoginH
-#define LoginH
+#ifndef CadastroH
+#define CadastroH
 //---------------------------------------------------------------------------
 #include <System.Classes.hpp>
 #include <Vcl.Controls.hpp>
 #include <Vcl.StdCtrls.hpp>
 #include <Vcl.Forms.hpp>
-#include <Data.DB.hpp>
-#include <Data.Win.ADODB.hpp>
-#include <Vcl.DBGrids.hpp>
-#include <Vcl.Grids.hpp>
 #include <Vcl.ExtCtrls.hpp>
 //---------------------------------------------------------------------------
-class TForm1 : public TForm
+class TForm2 : public TForm
 {
 __published:	// IDE-managed Components
-	TADOConnection *ADOConnection1;
-	TADOQuery *ADOQuery1;
-	TADOTable *ADOTable1;
-	TDataSource *DataSource1;
-	TDBGrid *DBGrid1;
 	TPanel *Panel1;
-	TLabel *bem_vindo;
 	TLabel *Label1;
+	TEdit *usuario_cad;
+	TEdit *senha_cad;
 	TButton *Button1;
-	TBevel *Bevel1;
-	TLabel *Label2;
-	TEdit *Usuario;
-	TEdit *Senha;
-	TButton *Button2;
-	void __fastcall Button2Click(TObject *Sender);
+	TEdit *nome_cad;
 	void __fastcall Button1Click(TObject *Sender);
-
 private:	// User declarations
 public:		// User declarations
-	__fastcall TForm1(TComponent* Owner);
+	__fastcall TForm2(TComponent* Owner);
 };
 //---------------------------------------------------------------------------
-extern PACKAGE TForm1 *Form1;
+extern PACKAGE TForm2 *Form2;
 //---------------------------------------------------------------------------
 #endif
