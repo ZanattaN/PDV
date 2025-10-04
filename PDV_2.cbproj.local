@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/09/28 16:48:23.000.732,=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/09/28 16:48:24.000.123,=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/09/28 18:20:18.000.075,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\PDV_2.cbproj=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2025/09/28 18:20:18.000.047,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\PDV_2PCH1.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2025/09/28 18:20:18.000.061,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.dfm=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/09/28 18:20:18.000.061,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.cpp=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2025/09/28 18:20:18.000.061,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2025/09/28 18:20:23.000.087,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Login.cpp=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.cpp</Transaction>
+    <Transaction>2025/09/28 18:20:23.000.087,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Login.dfm=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.dfm</Transaction>
+    <Transaction>2025/09/28 18:20:23.000.087,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Login.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.h</Transaction>
+    <Transaction>2025/09/30 18:54:05.000.394,=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.cpp</Transaction>
+    <Transaction>2025/09/30 19:02:57.000.387,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.cpp=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.cpp</Transaction>
+    <Transaction>2025/09/30 19:02:57.000.387,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.dfm=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.dfm</Transaction>
+    <Transaction>2025/09/30 19:02:57.000.387,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit1.h</Transaction>
+    <Transaction>2025/09/30 19:11:43.000.492,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.cpp=</Transaction>
+    <Transaction>2025/09/30 19:11:51.000.722,=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit2.cpp</Transaction>
+    <Transaction>2025/09/30 19:20:20.000.713,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit2.h</Transaction>
+    <Transaction>2025/09/30 19:20:20.000.713,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.dfm=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit2.dfm</Transaction>
+    <Transaction>2025/09/30 19:20:20.000.713,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Cadastro.cpp=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit2.cpp</Transaction>
+    <Transaction>2025/10/01 07:39:08.000.885,=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit3.cpp</Transaction>
+    <Transaction>2025/10/01 08:33:50.000.557,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit3.dfm=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Caixa.dfm</Transaction>
+    <Transaction>2025/10/01 08:33:50.000.557,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit3.cpp=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Caixa.cpp</Transaction>
+    <Transaction>2025/10/01 08:33:50.000.557,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit3.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Caixa.h</Transaction>
+    <Transaction>2025/10/03 07:44:25.345,=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit4.cpp</Transaction>
+    <Transaction>2025/10/03 07:44:50.177,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Fechamento.dfm=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit4.dfm</Transaction>
+    <Transaction>2025/10/03 07:44:50.177,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Fechamento.h=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit4.h</Transaction>
+    <Transaction>2025/10/03 07:44:50.177,C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Fechamento.cpp=C:\Users\Zhypv\Documents\Embarcadero\Studio\Projects\PDV_2\Unit4.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Login.cpp"/>
+    <File Path="Login.cpp"/>
+    <File Path="Login.dfm"/>
+    <File Path="Login.h"/>
+    <File Path="PDV_2.cpp"/>
+    <File Path="PDV_2PCH1.h"/>
+    <File Path="Cadastro.cpp"/>
+    <File Path="Cadastro.cpp"/>
+    <File Path="Cadastro.dfm"/>
+    <File Path="Cadastro.h"/>
+    <File Path="Caixa.cpp"/>
+    <File Path="Caixa.cpp"/>
+    <File Path="Caixa.dfm"/>
+    <File Path="Caixa.h"/>
+    <File Path="Fechamento.cpp"/>
+    <File Path="Fechamento.cpp"/>
+    <File Path="Fechamento.dfm"/>
+    <File Path="Fechamento.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
